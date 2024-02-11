@@ -4,7 +4,7 @@ const LazyLoading = () => {
   return (
     <div>
 
-   <h1>LazyLoading</h1> 
+   <h1>LazyLoading completed</h1> 
     </div>
   )
 }
